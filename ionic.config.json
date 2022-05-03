@@ -1,0 +1,7 @@
+{
+  "name": "Madarskom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
